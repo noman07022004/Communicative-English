@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "13d7892a0cc91105",
+        "id": "10255f2b3ffdad2b",
         "type": "tabs",
         "children": [
           {
-            "id": "942412fd80a833ea",
+            "id": "6926ecd6f77ead93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "word formation/__word formation__.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "__word formation__"
+              "title": "New tab"
             }
           }
         ]
@@ -173,12 +169,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ae2a8a75e2a1612",
+  "active": "a999d3166fd5e075",
   "lastOpenFiles": [
+    "-/New Text Document.txt",
+    "word formation/__word formation__.md",
     "just testing.md",
     "just testing.txt",
     "just testing",
-    "word formation/__word formation__.md",
     "word formation/acronym.md",
     "Untitled 1.md",
     "word formation/affixation.md",
@@ -204,7 +201,6 @@
     "word formation/suffixation.md",
     "word formation/suffix.md",
     "word formation/simple & composite words.md",
-    "word formation/root.md",
     "Excalidraw",
     "-/template",
     "-",
