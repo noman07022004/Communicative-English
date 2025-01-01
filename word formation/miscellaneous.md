@@ -16,7 +16,7 @@ Here are some miscellaneous types of word formation:
 - For example:
     - **YOLO** (You Only Live Once) in pop culture, where it’s used as both an acronym and a catchy term.
 
-### 3. **Onomatopoeia**
+### 3. **[[onomatopoeia|Onomatopoeia]]**
 
 - **Onomatopoeia** refers to words that sound like the objects or actions they represent. These words are formed from the imitation of natural sounds.
 - Examples:
@@ -24,7 +24,7 @@ Here are some miscellaneous types of word formation:
     - **Crash** (the sound of something breaking).
     - **Meow** (the sound a cat makes).
 
-### 4. **Eponyms**
+### 4. **[[eponyms|Eponyms]]**
 
 - **Eponyms** are words that come from the names of people or places. These words often arise when a particular person, product, or place becomes famous for something, and their name is used to refer to it.
 - Examples:

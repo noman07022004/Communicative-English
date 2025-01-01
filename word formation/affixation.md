@@ -1,4 +1,4 @@
-**Affixation** is the **linguistic process** of attaching an **[[affix]]** (a prefix, suffix, infix, or circumfix) to a **base** or **root word** in order to create a new word or modify the meaning of the original word. It is one of the primary methods of **word formation** in many languages, including English.
+**Affixation** is the **linguistic process** of attaching an **[[affix]]** (a [[prefix]], [[suffix]], [[infix]], or [[circumfix]]) to a **[[base]]** or **[[root]] word** in order to create a new word or modify the meaning of the original word. It is one of the primary methods of **word formation** in many languages, including English.
 
 ### Key Aspects of Affixation:
 
@@ -6,8 +6,8 @@
     
     - **[[prefix|Prefix]]**: Added at the beginning of a word (e.g., _un-_ in _undo_).
     - **[[suffix|Suffix]]**: Added at the end of a word (e.g., _-ly_ in _happily_).
-    - **Infix**: Inserted within a word (less common in English but seen in some languages).
-    - **Circumfix**: Added to both the beginning and end of a word (rare in English but present in other languages).
+    - **[[infix|Infix]]**: Inserted within a word (less common in English but seen in some languages).
+    - **[[circumfix|Circumfix]]**: Added to both the beginning and end of a word (rare in English but present in other languages).
 2. **Purpose of Affixation**: The goal of affixation is usually to **change the meaning**, **alter the word class** (e.g., from noun to adjective or from verb to noun), or to add **grammatical features** like tense or number.
     
     - **Meaning Change**: Adding the prefix _un-_ to _happy_ creates _unhappy_, changing the meaning to "not happy."

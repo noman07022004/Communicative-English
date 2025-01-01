@@ -63,7 +63,7 @@
     - Example: _Selfie_, _googling_.
 11. [[combining form|Combining form]]
     
-	- A **combining form** is a bound morpheme, usually from Latin or Greek, that combines with other morphemes (roots or other combining forms) to create new words. Unlike affixes, combining forms cannot stand alone as words. They are commonly used in **scientific, technical, or academic terms**.
+	- A **combining form** is a bound [[morpheme]], usually from Latin or Greek, that combines with other morphemes (roots or other combining forms) to create new words. Unlike affixes, combining forms cannot stand alone as words. They are commonly used in **scientific, technical, or academic terms**.
 		- **Examples of initial combining forms**: _bio-_ (life), _tele-_ (distance), _psycho-_ (mind).
 		- **Examples of final combining forms**: _-ology_ (study of), _-phobia_ (fear of), _-graph_ (writing or recording).
 	- They help form complex terms like _biology_ (bio- + -ology), _telephone_ (tele- + phone), and _psychology_ (psycho- + -ology).
@@ -71,11 +71,11 @@
 	- **Miscellaneous word formation** includes various ways of creating new words that don't fit standard categories like affixation or compounding:
 		1. **[[reduplication|Reduplication]]**: Repeating parts of words (e.g., _chit-chat_).
 		2. **[[acronym|Acronyms]]**: Using initial letters of phrases (e.g., _YOLO_).
-		3. **Onomatopoeia**: Words that imitate sounds (e.g., _buzz_).
-		4. **Eponyms**: Words from people's names (e.g., _sandwich_).
+		3. **[[Onomatopoeia]]**: Words that imitate sounds (e.g., _buzz_).
+		4. **[[eponyms|Eponyms]]**: Words from people's names (e.g., _sandwich_).
 		5. **[[back-formation|Back-formation]]**: Creating new words by removing affixes (e.g., _edit_ from _editor_).
 		6. **Coinage**: Creating entirely new words (e.g., _Google_).
-		7. **Semantic Extension**: Words taking on new meanings (e.g., _mouse_).
+		7. **[[sementic extension|Semantic Extension]]**: Words taking on new meanings (e.g., _mouse_).
 		8. **Loan Translations**: Direct translations from other languages (e.g., _skyscraper_ from French).
 		9. **Functional Shift**: Shifting word categories without changing form (e.g., _Google_ as a verb).
 
