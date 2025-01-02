@@ -9,7 +9,7 @@ Phonology is the study of the sound systems within languages, focusing on how so
 #### **1. Definition and Distinction from Phonetics**
 
 - **Phonology**: Deals with the abstract, cognitive rules and patterns governing how sounds function in a language.
-- **[[phonetics|Phonetics]]**: Studies the physical, articulatory, acoustic, and perceptual properties of [[speech sound|speech sounds]].
+- **Phonetics**: Studies the physical, articulatory, acoustic, and perceptual properties of [[speech sound|speech sounds]].
 
 | Feature | Phonology              | Phonetics                          |
 | ------- | ---------------------- | ---------------------------------- |
