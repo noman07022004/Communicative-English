@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "2be93d07276434f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a0865d2ddadc5d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf6cae6182e93bea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "word formation/affix.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "affix"
+            },
+            "group": "b5fab2429bbdd1f8"
+          }
+        ]
+      },
+      {
+        "id": "6c9ece9bb935da41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47dba57524c42e42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "word formation/affix.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "affix"
+            },
+            "group": "b5fab2429bbdd1f8"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8fe48575743cc816",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "860bc46a3b3a8310",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "6431bc43dfce3c5f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "2ee2cae7f95621ab",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "2164e8ead6d13936",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "bcfc2751ce068e09",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "14acdf9e2836042c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "word formation/__word formation__.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "1bb5c1603285d10d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "a2d19ae787c5e75f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cf6cae6182e93bea",
+  "lastOpenFiles": [
+    "word formation/affixation.md",
+    "word formation/__word formation__.md",
+    "word formation/compunding.md",
+    "word formation/morpheme.md",
+    "word formation/affix.md",
+    "word formation/allomorph.md",
+    "word formation/conditioning of allomorphs.md",
+    "word formation/morph.md",
+    "word formation/combining form.md",
+    "Untitled"
+  ]
+}

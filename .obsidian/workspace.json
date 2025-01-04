@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "90efc383c168733f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a86438b4295dcda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d82f7b334d802c30",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54c50696347a7d76",
+    "type": "split",
+    "children": [
+      {
+        "id": "276fde5ea8943b15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ae2a8a75e2a1612",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b1c221803af7bb74",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "79f367b926b7ef46",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5
+  },
+  "right": {
+    "id": "1e9858601efe8e9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "79012a4c2a42d02b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25ee5184f23a499a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "phonetics/place of articulation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from place of articulation"
+            }
+          },
+          {
+            "id": "b81ef4969208ea24",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b7e85060e874b978",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "dfe3a7d525cda703",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a999d3166fd5e075",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 364.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "d82f7b334d802c30",
+  "lastOpenFiles": [
+    "+/-/word formation process.md",
+    "+/-/phonology.md",
+    "+/-/phonetics.md",
+    "+/acronym.md",
+    "+/allophone.md",
+    "+/articulatory phonetics.md",
+    "+/structure of word.md",
+    "+/IPA.md",
+    "+/root.md",
+    "x/Excalidraw/desktop.ini",
+    "x/Excalidraw/Drawing 2025-01-04 18.24.57.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-04 18.23.25.excalidraw.md",
+    "x/Excalidraw",
+    "x/Excalidraw/base & root diagram.md",
+    "x/human vocal tract.jpeg",
+    "x/diphthong.jpeg",
+    "+/diphthong.md",
+    "x/templates/desktop.ini",
+    "x/books/Sidney Greenbaum The Oxford English Grammar.pdf",
+    "x/books/George Yule The Study of Language.pdf",
+    "x/books/English Phonetics and Phonology_Peter Roach.pdf",
+    "+/prefix.md",
+    "+/-",
+    "+/Untitled.md",
+    "+",
+    "+/affix.md",
+    "+/derivation.md",
+    "asset/desktop.ini",
+    "asset",
+    "+/morphology.md",
+    "+/morpheme.md",
+    "+/bound morpheme.md",
+    "+/free morpheme.md",
+    "+/allomorph.md",
+    "+/morph.md",
+    "+/multiple process.md",
+    "+/etymology.md",
+    "+/neologism.md",
+    "base & root in diagram.canvas",
+    "x/coarticulation effect table.jpeg",
+    "x/syllable structure.jpeg",
+    "x/minimal pair and set table.jpeg",
+    "x/allophone table.jpeg",
+    "x/monophthong.jpeg",
+    "x/vowel sound (Monophthong) table.jpeg",
+    "x/place and manner of articulation table.jpeg",
+    "x/manner of articulation table.jpeg",
+    "Untitled 1.canvas"
+  ]
+}
