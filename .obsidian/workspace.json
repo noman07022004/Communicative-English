@@ -4,17 +4,25 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
+        "id": "ecc70a8e9423ef82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efb23cb46484e739",
+=======
         "id": "0d5602ab71796e3d",
         "type": "tabs",
         "children": [
           {
             "id": "732660dd718c0564",
+>>>>>>> parent of d4663d0 (vault backup: 2025-01-04 18:45:48)
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -140,7 +148,7 @@
             }
           },
           {
-            "id": "a999d3166fd5e075",
+            "id": "bc8e1eba35ccf853",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -187,6 +195,57 @@
       "obsidian-git:Open Git source control": false
     }
   },
+<<<<<<< HEAD
+  "active": "bc8e1eba35ccf853",
+  "lastOpenFiles": [
+    "phonology/desktop.ini",
+    "phonology/Untitled mindmap.md",
+    "phonology/stress.md",
+    "phonology/speech sound.md",
+    "phonology/phonology.md",
+    "phonology/phoneme.md",
+    "phonology/intonation.md",
+    "phonology",
+    "word formation/word formation.md",
+    "word formation/suffixation.md",
+    "word formation/suffix.md",
+    "word formation/simple & composite words.md",
+    "word formation/sementic extension.md",
+    "word formation/root.md",
+    "word formation/reduplication.md",
+    "word formation/prefixation.md",
+    "word formation/prefix.md",
+    "word formation/neologism.md",
+    "word formation/onomatopoeia.md",
+    "word formation/morphology.md",
+    "word formation/morpheme.md",
+    "word formation/morph.md",
+    "word formation/miscellaneous.md",
+    "word formation/initialism.md",
+    "word formation/conversion.md",
+    "word formation/eponyms.md",
+    "word formation/conditioning of allomorphs.md",
+    "word formation",
+    "phonetics/vowel sound (Monophthong) table.jpeg",
+    "phonetics/place of articulation table.jpeg",
+    "phonetics/place of articulation mouth diagram.gif",
+    "phonetics/place and manner of articulation table.jpeg",
+    "phonetics/monophthong.jpeg",
+    "phonetics/manner of articulation table.jpeg",
+    "phonetics/human vocal tract.jpeg",
+    "phonetics/diphthong.jpeg",
+    "phonetics",
+    "-/template",
+    "-",
+    "x/Excalidraw/desktop.ini",
+    "x/Excalidraw",
+    "x/human vocal tract.jpeg",
+    "x/diphthong.jpeg",
+    "x/templates/desktop.ini",
+    "x/books/Sidney Greenbaum The Oxford English Grammar.pdf",
+    "x/books/George Yule The Study of Language.pdf",
+    "base & root in diagram.canvas",
+=======
   "active": "732660dd718c0564",
   "lastOpenFiles": [
     "phonetics/phonetics.md",
@@ -234,6 +293,7 @@
     "phonology/intonation.md",
     "word formation/word formation.md",
     "Untitled.canvas",
+>>>>>>> parent of d4663d0 (vault backup: 2025-01-04 18:45:48)
     "Untitled 1.canvas"
   ]
 }

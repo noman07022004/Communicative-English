@@ -1,5 +1,16 @@
+<<<<<<< HEAD
+<<<<<<< HEAD:+/morphology.md
+### Introduction
+- **Morphology** is the branch of linguistics that studies the [[structure of word|structure]] and [[Word Formation Process|formation]] of words. It examines how words are composed of smaller units called **[[morpheme|morphemes]]**, which are the smallest meaningful units of language.
+---
+=======
 **Morphology** is the branch of linguistics that studies the structure and formation of words. It examines how words are composed of smaller units called **morphemes**, which are the smallest meaningful units of language.
 
+>>>>>>> parent of d4663d0 (vault backup: 2025-01-04 18:45:48):word formation/morphology.md
+=======
+**Morphology** is the branch of linguistics that studies the structure and formation of words. It examines how words are composed of smaller units called **morphemes**, which are the smallest meaningful units of language.
+
+>>>>>>> parent of d4663d0 (vault backup: 2025-01-04 18:45:48)
 ### Key Concepts in Morphology:
 
 1. **[[morpheme|Morpheme]]**: The smallest unit of meaning (e.g., _un-, happy, -ness_ in _unhappiness_).
