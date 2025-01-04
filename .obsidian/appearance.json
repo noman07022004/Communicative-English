@@ -1,7 +1,4 @@
 {
   "baseFontSizeAction": false,
-  "nativeMenus": false,
-  "cssTheme": "",
-  "theme": "obsidian",
-  "accentColor": ""
+  "nativeMenus": false
 }
