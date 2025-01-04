@@ -1,7 +1,10 @@
 {
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
   "showRibbon": true,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "newFileFolderPath": "+",
+  "trashOption": "system",
+  "attachmentFolderPath": "x"
 }

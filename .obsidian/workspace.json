@@ -11,10 +11,10 @@
             "id": "efb23cb46484e739",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -167,7 +167,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ae2a8a75e2a1612",
+  "active": "efb23cb46484e739",
   "lastOpenFiles": [
     "x/templates/tag, related topic, reference & supplement.md",
     "x/books/Sidney Greenbaum The Oxford English Grammar.pdf",
