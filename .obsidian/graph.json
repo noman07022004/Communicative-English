@@ -17,14 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "scale": 0.5359795996225943,
-=======
   "scale": 0.6316046762907522,
->>>>>>> parent of d4663d0 (vault backup: 2025-01-04 18:45:48)
-=======
-  "scale": 0.6316046762907522,
->>>>>>> parent of d4663d0 (vault backup: 2025-01-04 18:45:48)
   "close": true
 }
