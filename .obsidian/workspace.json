@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0d5602ab71796e3d",
+        "id": "5a86438b4295dcda",
         "type": "tabs",
         "children": [
           {
-            "id": "732660dd718c0564",
+            "id": "d82f7b334d802c30",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "right": {
     "id": "1e9858601efe8e9f",
@@ -148,26 +147,6 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "63a5bb3ef4d8b899",
-            "type": "leaf",
-            "state": {
-              "type": "aHR0cHM6Ly9lbmdsaXNod2l0aGx1Y3kuY29tL3Bob25lbWljLWNoYXJ0Lw==",
-              "state": {},
-              "icon": "aHR0cHM6Ly9lbmdsaXNod2l0aGx1Y3kuY29tL3Bob25lbWljLWNoYXJ0Lw==",
-              "title": "Phonetics"
-            }
-          },
-          {
-            "id": "d01211cec5c2290f",
-            "type": "leaf",
-            "state": {
-              "type": "aHR0cHM6Ly9hbWVyaWNhbmlwYWNoYXJ0LmNvbS8=",
-              "state": {},
-              "icon": "aHR0cHM6Ly9hbWVyaWNhbmlwYWNoYXJ0LmNvbS8=",
-              "title": "American IPA Chart"
-            }
           }
         ],
         "currentTab": 4
@@ -184,56 +163,59 @@
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "732660dd718c0564",
+  "active": "d82f7b334d802c30",
   "lastOpenFiles": [
-    "phonetics/phonetics.md",
-    "phonetics/articulatory phonetics.md",
-    "phonetics/vowel sound.md",
-    "phonetics/IPA.md",
-    "phonetics/monophthong.md",
-    "phonetics/monophthong.jpeg",
-    "phonetics/Screenshot_2-1-2025_162713_englishwithlucy.com.jpeg.crdownload",
-    "phonetics/diphthong.jpeg",
-    "phonetics/Screenshot_2-1-2025_16256_englishwithlucy.com.jpeg.crdownload",
-    "phonetics/vowel sound (Monophthong) table.jpeg",
-    "phonetics/Screenshot_2-1-2025_161820_.jpeg.crdownload",
-    "phonology/speech sound.md",
-    "phonetics/consonant sound.md",
-    "phonetics/voicing.md",
-    "phonetics/manner of articulation.md",
-    "phonetics/place of articulation.md",
-    "phonetics/human vocal tract.md",
-    "phonology/phonology.md",
-    "phonetics/Suprasegmentals.md",
-    "phonetics/the speech mechanism.md",
-    "-/template/tag, related topic, reference & supplement.md",
-    "phonetics/Untitled.md",
-    "phonetics/place and manner of articulation table.jpeg",
-    "phonetics/Screenshot_2-1-2025_92631_.jpeg.crdownload",
-    "phonetics/manner of articulation table.jpeg",
-    "phonetics/Screenshot_2-1-2025_9258_.jpeg.crdownload",
-    "phonology/Untitled mindmap.md",
-    "phonetics/place of articulation mouth diagram.gif",
-    "phonetics/place of articulation mouth diagram.webp",
-    "phonetics/place of articulation mouth diagram.gif.crdownload",
-    "phonetics/place of articulation table.jpeg",
-    "phonetics/Screenshot_1-1-2025_19328_.jpeg.crdownload",
-    "phonetics/place of articulation mouth diagram.webp.crdownload",
-    "phonetics/organ of speech.md",
-    "phonetics/human vocal tract.jpeg",
-    "phonology/phoneme.md",
-    "desktop.ini",
-    "phonetics/Screenshot_1-1-2025_19539_.jpeg.crdownload",
-    "phonetics/speechsound.md",
-    "phonetics/diphthong.md",
-    "phonetics/voiceless sound.md",
-    "phonetics/voiced sound.md",
-    "phonology/intonation.md",
-    "word formation/word formation.md",
-    "Untitled.canvas",
+    "+/-/word formation process.md",
+    "+/-/phonology.md",
+    "+/-/phonetics.md",
+    "+/acronym.md",
+    "+/allophone.md",
+    "+/articulatory phonetics.md",
+    "+/structure of word.md",
+    "+/IPA.md",
+    "+/root.md",
+    "x/Excalidraw/desktop.ini",
+    "x/Excalidraw/Drawing 2025-01-04 18.24.57.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-04 18.23.25.excalidraw.md",
+    "x/Excalidraw",
+    "x/Excalidraw/base & root diagram.md",
+    "x/human vocal tract.jpeg",
+    "x/diphthong.jpeg",
+    "+/diphthong.md",
+    "x/templates/desktop.ini",
+    "x/books/Sidney Greenbaum The Oxford English Grammar.pdf",
+    "x/books/George Yule The Study of Language.pdf",
+    "x/books/English Phonetics and Phonology_Peter Roach.pdf",
+    "+/prefix.md",
+    "+/-",
+    "+/Untitled.md",
+    "+",
+    "+/affix.md",
+    "+/derivation.md",
+    "asset/desktop.ini",
+    "asset",
+    "+/morphology.md",
+    "+/morpheme.md",
+    "+/bound morpheme.md",
+    "+/free morpheme.md",
+    "+/allomorph.md",
+    "+/morph.md",
+    "+/multiple process.md",
+    "+/etymology.md",
+    "+/neologism.md",
+    "base & root in diagram.canvas",
+    "x/coarticulation effect table.jpeg",
+    "x/syllable structure.jpeg",
+    "x/minimal pair and set table.jpeg",
+    "x/allophone table.jpeg",
+    "x/monophthong.jpeg",
+    "x/vowel sound (Monophthong) table.jpeg",
+    "x/place and manner of articulation table.jpeg",
+    "x/manner of articulation table.jpeg",
     "Untitled 1.canvas"
   ]
 }
