@@ -1,3 +1,11 @@
 {
-  "defaultViewMode": "preview"
+  "newFileLocation": "folder",
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "showRibbon": true,
+  "showInlineTitle": true,
+  "trashOption": "local",
+  "newFileFolderPath": "+",
+  "attachmentFolderPath": "x",
+  "promptDelete": false
 }
