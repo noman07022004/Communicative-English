@@ -1,6 +1,6 @@
 
 ### Introduction
-- **Clipping** is a word-formation process where a longer word is shortened by removing one or more syllables, typically without changing its meaning. It involves shortening a word by cutting off parts of it.
+- **Clipping** is a word-formation process where a longer word is shortened by removing one or more [[syllable|syllables]], typically without changing its meaning. It involves shortening a word by cutting off parts of it.
 -  The resulting word is often more casual or informal but retains the meaning of the original word. 
 - ***Types of Clipping :***
 	1. **Fore-clipping**: Removing the beginning of a word.

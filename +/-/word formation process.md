@@ -19,6 +19,10 @@
 13.  [[reduplication|Reduplication]]![[reduplication#Introduction]]
 14. [[combining form|Combining form]]![[combining form#Introduction]]
 15. [[multiple process|Multiple Processes]]![[multiple process#Introduction]]
+16. [[onomatopoeia|Onomatopoeia]]
+17. [[phonaesthemes|Phonaesthemes]]
+18. [[Eponymy|eponymy]]
+19. [[abbreviation|Abbreviation]]
 
 
 

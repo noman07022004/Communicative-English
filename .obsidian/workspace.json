@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ecc70a8e9423ef82",
+        "id": "7e41229e33e86ee1",
         "type": "tabs",
         "children": [
           {
-            "id": "efb23cb46484e739",
+            "id": "156ada72b67b015a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "+/-/word formation process.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "word formation process"
             }
           }
         ]
@@ -144,8 +148,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -153,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 364.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,19 +167,39 @@
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
-      "command-palette:Open command palette": true,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": true
     }
   },
-  "active": "bc8e1eba35ccf853",
+  "active": "156ada72b67b015a",
   "lastOpenFiles": [
-    "x/Excalidraw/Drawing 2025-01-04 23.32.10.excalidraw.md",
-    "x/templates/tag, related topic, reference & supplement.md",
+    "+/Suprasegmentals.md",
+    "+/-/word formation process.md",
+    "+/-/intonation.md",
+    "+/intonation.md",
+    "+/onomatopoeia.md",
     "x/books/Sidney Greenbaum The Oxford English Grammar.pdf",
-    "x/Excalidraw/base & root diagram.md",
+    "x/books/Robert Allans Ahmet Mustafaoglu Matt Edie Advanced English Conversations.pdf",
     "x/books/George Yule The Study of Language.pdf",
     "x/books/English Phonetics and Phonology_Peter Roach.pdf",
+    "+/the nature of stress.md",
+    "+/level of stress.md",
+    "+/-/stress.md",
+    "+/placement of stress within the word.md",
+    "+/combining form.md",
+    "+/backformation.md",
+    "x/books/Deborah Capras Small Talk.pdf",
+    "x/books/Deborah Capras Small Talk.pdf.crdownload",
+    "+/clipping.md",
+    "+/syllable.md",
+    "+/morpheme.md",
+    "+/allomorph.md",
+    "+/morph.md",
+    "+/compounding.md",
+    "+/etymology.md",
+    "+/structure of word.md",
+    "x/Excalidraw/Drawing 2025-01-04 23.32.10.excalidraw.md",
+    "x/templates/tag, related topic, reference & supplement.md",
+    "x/Excalidraw/base & root diagram.md",
     "x/vowel sound (Monophthong) table.jpeg",
     "x/templates",
     "x/syllable structure.jpeg",
@@ -189,32 +214,10 @@
     "x/coarticulation effect table.jpeg",
     "x/books",
     "x",
-    "+/-/word formation process.md",
     "+/-/phonology.md",
     "+/-/phonetics.md",
-    "+/-",
     "+/vowel sound.md",
     "+/voicing.md",
-    "+/voiceless sound.md",
-    "+/voiced sound.md",
-    "+/the speech mechanism.md",
-    "+/syllable.md",
-    "+/Suprasegmentals.md",
-    "+/suffixation.md",
-    "+/suffix.md",
-    "+/structure of word.md",
-    "+/stress.md",
-    "+/speech sound.md",
-    "+/simple & composite words.md",
-    "+/sementic extension.md",
-    "+/root.md",
-    "+/reduplication.md",
-    "+/prefixation.md",
-    "+/prefix.md",
-    "+/place of articulation.md",
-    "+/phonotactics.md",
-    "+",
-    "word formation",
     "base & root in diagram.canvas",
     "Untitled 1.canvas"
   ]

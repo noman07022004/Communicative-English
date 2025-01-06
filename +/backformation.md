@@ -1,6 +1,6 @@
 ### Introduction
 - **Backformation** is a word-formation process where a new word (usually a verb) is created by removing a suffix from an existing word (usually a noun or adjective). 
-- In this process, the original word is "reduced" to create a new word with a different part of speech, often changing the meaning or function of the word. For example:
+- In this process, the original word is "reduced" to create a new word with a different [[part of speech]], often changing the meaning or function of the word. For example:
 	- **Television** → **Televise** (noun to verb)
 	- **Donation** → **Donate** (noun to verb)
 	- **Emotion** → **Emote** (noun to verb)

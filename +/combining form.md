@@ -19,8 +19,8 @@
 	3. **Combining Forms Combining with Each Other**:
 	    
 	    - **Bio- + -logy** → _biology_ (study of life)
-	    - **Tele- + -phone** → _telephone_ (device for distant sound)
-	    - **Auto- + -graph** → _autograph_ (a person's signature)
+	    - **Psycho- + -logy** → _psychology_ ()
+	    - **Bio- + -graph** → _biography_ ()
 	    - **Geo- + -meter** → _geometer_ (someone who measures the earth)
 
 
