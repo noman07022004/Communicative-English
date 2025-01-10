@@ -35,9 +35,21 @@
               "icon": "lucide-file",
               "title": "phonology"
             }
+          },
+          {
+            "id": "c05d35bbbc11e6f5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "x/books/Academic Curriculum.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Academic Curriculum"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "01dd6d409b0f6c49",
@@ -198,10 +210,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": true
     }
   },
-  "active": "5cbad914bcf657a1",
+  "active": "c05d35bbbc11e6f5",
   "lastOpenFiles": [
-    "+/stress.md",
     "+/-/phonology.md",
+    "x/books/Academic Curriculum.pdf",
+    "+/stress.md",
     "+/phonotactics.md",
     "+/syllable.md",
     "+/phone.md",
@@ -225,7 +238,6 @@
     "+/-/phonetics.md",
     "+/pitch.md",
     "x/templates/introduction & basic concept.md",
-    "+/tone.md",
     "x/books/George Yule The Study of Language.pdf",
     "x/books/Robert Allans Ahmet Mustafaoglu Matt Edie Advanced English Conversations.pdf",
     "x/books/Sidney Greenbaum The Oxford English Grammar.pdf",
@@ -245,7 +257,6 @@
     "x/Excalidraw",
     "x/coarticulation effect table.jpeg",
     "x/books",
-    "x",
     "base & root in diagram.canvas",
     "Untitled 1.canvas"
   ]
