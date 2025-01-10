@@ -1,5 +1,10 @@
 ### Introduction
 - **Initialism** is a type of abbreviation formed from the initial letters of a series of words, where each letter is pronounced individually (letter by letter) rather than as a single word. For example,
+	- **USA** - United States of America
+	- **UK** - United Kingdom
+	- **CEO** - Chief Executive Officer
+	- **UAE** - United Arab Emirates
+	- **DU** - Dhaka University
 	- **FBI**: Federal Bureau of Investigation
 	- **ATM**: Automated Teller Machine
 	- **HTML**: Hyper Text Markup Language

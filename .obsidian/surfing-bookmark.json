@@ -1,6 +1,18 @@
 {
   "bookmarks": [
     {
+      "id": "852590129",
+      "name": "Google Translate",
+      "url": "https://translate.google.com/?sl=en&tl=bn&text=prominence&op=translate",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1736253276245,
+      "modified": 1736253276245
+    },
+    {
       "id": "-2016431656",
       "name": "ChatGPT",
       "url": "https://chatgpt.com/",

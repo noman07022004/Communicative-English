@@ -8,8 +8,7 @@
   ],
   "hoverPopover": true,
   "ignoreList": [
-    "notion",
-    "craft"
+    ""
   ],
   "alwaysShowCustomSearch": false,
   "showOtherSearchEngines": true,
@@ -23,7 +22,7 @@
   "openInObsidianWeb": false,
   "useCustomIcons": false,
   "useWebview": false,
-  "useIconList": true,
+  "useIconList": false,
   "darkMode": false,
   "randomBackground": false,
   "lastOpenedFiles": false,
@@ -44,14 +43,25 @@
       "modified",
       "action"
     ],
-    "defaultFilterType": "tree"
+    "defaultFilterType": "menu"
   },
   "treeData": [
     {
-      "id": "53bf08c6832de1cf",
+      "id": "05cc174c094acd2f",
       "parent": 0,
       "droppable": true,
-      "text": "python at DuckDuckGo",
+      "text": "Phonotactics Explained with Examples",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "53d17fad3b5b0837",
+      "parent": 0,
+      "droppable": true,
+      "text": "Google Translate",
       "data": {
         "fileType": "site",
         "fileSize": "",

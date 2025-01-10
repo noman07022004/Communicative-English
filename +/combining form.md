@@ -18,8 +18,8 @@
 	    - **-cide** (killing): _homicide_, _pesticide_, _genocide_
 	3. **Combining Forms Combining with Each Other**:
 	    
-	    - **Bio- + -logy** → _biology_ (study of life)
-	    - **Psycho- + -logy** → _psychology_ ()
+	    - **Bio- + -ology** → _biology_ (study of life)
+	    - **Psycho- + -ology** → _psychology_ ()
 	    - **Bio- + -graph** → _biography_ ()
 	    - **Geo- + -meter** → _geometer_ (someone who measures the earth)
 

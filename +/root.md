@@ -8,7 +8,7 @@
 		- **Happy** → Root in **happiness**, **unhappy**, **happily**.
 		- **Help** → Root in **helpful**, **helpless**, **unhelpful**.
 	- **Bound Roots** (Cannot stand alone as words):
-		- **capt** in **capture**, **captive**, **recapture**.
+		- **capt** → Root in **capture**, **captive**, **recapture**.
 		- **Aud** → Root in **audio**, **audible**, **auditorium**, **audition**.
 	- In diagram ![[base & root diagram]]
 

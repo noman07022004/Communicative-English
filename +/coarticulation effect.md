@@ -43,3 +43,16 @@
 ### Normal Speech
 
 - These phonological processes (assimilation, nasalization, and elision) are natural parts of everyday speech and should not be seen as mistakes or laziness. They are essential for fluent and efficient communication, and avoiding them would lead to overly deliberate and unnatural speech. The goal of studying these processes is to understand the regular patterns in speech, not to dictate how a language _should_ be pronounced.
+
+**Phonological Rules**
+
+Phonological rules explain how phonemes are realized as specific sounds (allophones) in given linguistic environments.
+
+- **Assimilation:** One sound becomes similar to a neighboring sound.
+    - Example: "input" often pronounced as [ɪnpʊt] → [ɪmpʊt].
+- **Deletion:** A sound is omitted.
+    - Example: "friend" pronounced as [frɛnd] → [frɛn].
+- **Insertion (Epenthesis):** A sound is added.
+    - Example: "athlete" pronounced as [æθliːt] → [æθəlit].
+- **Metathesis:** Sounds are reordered.
+    - Example: "ask" pronounced as [æsk] → [æks].

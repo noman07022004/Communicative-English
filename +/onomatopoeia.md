@@ -1,3 +1,18 @@
+### Introduction
+- Onomatopoeia is a process of word formation in which a word is created to [[phonetics|phonetically]] imitate, resemble, or suggest the natural sound it describes.
+- Onomatopoeia is the words that are formed by imitating the sounds they describe.
+- These words are directly inspired by sounds in the environment, human actions, animal noises, or natural phenomena.
+-  Onomatopoeia is a linguistic device that bridges the gap between sound and meaning, often making language more vivid and expressive.
+- **Sound Imitation**: Onomatopoeic words mimic the actual sound of the action or object they describe. For example:
+	    - **Animal sounds**: "meow" (cat), "woof" (dog), "moo" (cow).
+	    - **Natural sounds**: "bang" (explosion), "splash" (water), "buzz" (bee).
+	    - **Human Sounds**: Words that replicate human noises or vocal expressions, such as "giggle," "cough," or "whisper."
+	    -  **Mechanical or Artificial Sounds**: Words that imitate the sounds of machines, tools, or objects, such as "click," "beep," or "clang."
+
+
+
+
+### Basic Concepts
 Onomatopoeia in word formation refers to the creation of words that phonetically imitate or suggest the source of the sound they describe. These words are directly inspired by sounds in the environment, human actions, animal noises, or natural phenomena. Onomatopoeia is a linguistic device that bridges the gap between sound and meaning, often making language more vivid and expressive.
 
 ### Key Features of Onomatopoeia

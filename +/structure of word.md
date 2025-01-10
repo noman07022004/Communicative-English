@@ -1,6 +1,5 @@
 ### Introduction
 - Word structure refers to the internal makeup of a word. It describes how words are formed, based on the components they contain. These components include [[root|roots]], [[prefix|prefixes]], [[suffix|suffixes]], and other meaningful parts. Words can be simple or composite, depending on their structure.
-
 	1. ***Simple Words:***
 		- Simple words are those that cannot be divided into smaller meaningful parts. They consist of only one unit of meaning (a [[root]] word) and do not contain any [[affix|affixes]] (prefixes, suffixes, or infixes). For example,
 			- _and_, _the_, _on_, _book_, _dog_

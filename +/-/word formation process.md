@@ -18,11 +18,12 @@
 12. [[initialism|Initialism]]![[initialism#Introduction]]
 13.  [[reduplication|Reduplication]]![[reduplication#Introduction]]
 14. [[combining form|Combining form]]![[combining form#Introduction]]
-15. [[multiple process|Multiple Processes]]![[multiple process#Introduction]]
-16. [[onomatopoeia|Onomatopoeia]]
-17. [[phonaesthemes|Phonaesthemes]]
-18. [[Eponymy|eponymy]]
-19. [[abbreviation|Abbreviation]]
+15. [[onomatopoeia|Onomatopoeia]]![[onomatopoeia#Introduction]]
+16. [[phonestheme|Phonestheme]]![[phonestheme#Introduction]]
+17. [[eponym|Eponym]]![[eponym#Introduction]]
+18. [[hypocorism|Hypocorism]]![[hypocorism#Introduction]]
+19. [[miscellaneous|Miscellaneous]]![[miscellaneous]]
+20. [[multiple process|Multiple Processes]]![[multiple process#Introduction]]
 
 
 

@@ -2,6 +2,7 @@
 - **Acronym** is a type of abbreviation formed by taking the initial letters of a set of words and combining them into a new word that is pronounced as a single term. For example,
 	- **NASA**: National Aeronautics and Space Administration
 	- **UNESCO**: United Nations Educational, Scientific and Cultural Organization
+	- **BRAC** - Bangladesh Rural Advancement Committee
 	- **RADAR**: Radio Detection and Ranging
 	- **SCUBA**: Self-Contained Underwater Breathing Apparatus
 	- **LASER**: Light Amplification by Stimulated Emission of Radiation

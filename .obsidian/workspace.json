@@ -4,21 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "7e41229e33e86ee1",
+        "id": "531e7771a06d13e8",
         "type": "tabs",
+        "dimension": 71.11260053619303,
         "children": [
           {
-            "id": "156ada72b67b015a",
+            "id": "1fe4f84749f45a91",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "5cbad914bcf657a1",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/-/word formation process.md",
+                "file": "+/-/phonology.md",
                 "mode": "preview",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "word formation process"
+              "title": "phonology"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "01dd6d409b0f6c49",
+        "type": "tabs",
+        "dimension": 28.88739946380697,
+        "children": [
+          {
+            "id": "509483b7debba0b0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://chatgpt.com/c/677dedde-0640-8003-8035-f01a9c2855fa"
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Phonestheme Example Explained"
             }
           }
         ]
@@ -141,19 +178,9 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "bc8e1eba35ccf853",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -167,39 +194,44 @@
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
-      "command-palette:Open command palette": true
+      "command-palette:Open command palette": true,
+      "obsidian-excalidraw-plugin:Create new drawing": true
     }
   },
-  "active": "156ada72b67b015a",
+  "active": "5cbad914bcf657a1",
   "lastOpenFiles": [
-    "+/Suprasegmentals.md",
-    "+/-/word formation process.md",
-    "+/-/intonation.md",
+    "+/stress.md",
+    "+/-/phonology.md",
+    "+/phonotactics.md",
+    "+/syllable.md",
+    "+/phone.md",
+    "+/phoneme.md",
+    "+/speech sound.md",
     "+/intonation.md",
+    "+/-/word formation process.md",
+    "+/initialism.md",
+    "+/acronym.md",
+    "+/hypocorism.md",
+    "+/eponym.md",
+    "+/phonestheme.md",
     "+/onomatopoeia.md",
-    "x/books/Sidney Greenbaum The Oxford English Grammar.pdf",
-    "x/books/Robert Allans Ahmet Mustafaoglu Matt Edie Advanced English Conversations.pdf",
+    "+/structure of word.md",
+    "+/Untitled.md",
+    "+/etymology.md",
+    "+/derivation.md",
+    "+/root.md",
+    "x/Excalidraw/base & root diagram.md",
+    "x/Excalidraw/Drawing 2025-01-07 21.30.05.excalidraw.md",
+    "+/-/phonetics.md",
+    "+/pitch.md",
+    "x/templates/introduction & basic concept.md",
+    "+/tone.md",
     "x/books/George Yule The Study of Language.pdf",
+    "x/books/Robert Allans Ahmet Mustafaoglu Matt Edie Advanced English Conversations.pdf",
+    "x/books/Sidney Greenbaum The Oxford English Grammar.pdf",
     "x/books/English Phonetics and Phonology_Peter Roach.pdf",
-    "+/the nature of stress.md",
-    "+/level of stress.md",
-    "+/-/stress.md",
-    "+/placement of stress within the word.md",
-    "+/combining form.md",
-    "+/backformation.md",
     "x/books/Deborah Capras Small Talk.pdf",
     "x/books/Deborah Capras Small Talk.pdf.crdownload",
-    "+/clipping.md",
-    "+/syllable.md",
-    "+/morpheme.md",
-    "+/allomorph.md",
-    "+/morph.md",
-    "+/compounding.md",
-    "+/etymology.md",
-    "+/structure of word.md",
-    "x/Excalidraw/Drawing 2025-01-04 23.32.10.excalidraw.md",
-    "x/templates/tag, related topic, reference & supplement.md",
-    "x/Excalidraw/base & root diagram.md",
     "x/vowel sound (Monophthong) table.jpeg",
     "x/templates",
     "x/syllable structure.jpeg",
@@ -214,10 +246,6 @@
     "x/coarticulation effect table.jpeg",
     "x/books",
     "x",
-    "+/-/phonology.md",
-    "+/-/phonetics.md",
-    "+/vowel sound.md",
-    "+/voicing.md",
     "base & root in diagram.canvas",
     "Untitled 1.canvas"
   ]
