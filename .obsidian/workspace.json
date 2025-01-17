@@ -6,7 +6,7 @@
       {
         "id": "531e7771a06d13e8",
         "type": "tabs",
-        "dimension": 71.11260053619303,
+        "dimension": 61.48919135308246,
         "children": [
           {
             "id": "1fe4f84749f45a91",
@@ -47,14 +47,27 @@
               "icon": "lucide-file-text",
               "title": "Academic Curriculum"
             }
+          },
+          {
+            "id": "9dfb872ad49238bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+/-/word formation process.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "word formation process"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "01dd6d409b0f6c49",
         "type": "tabs",
-        "dimension": 28.88739946380697,
+        "dimension": 38.51080864691753,
         "children": [
           {
             "id": "509483b7debba0b0",
@@ -126,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "right": {
     "id": "1e9858601efe8e9f",
@@ -210,10 +224,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": true
     }
   },
-  "active": "c05d35bbbc11e6f5",
+  "active": "1fe4f84749f45a91",
   "lastOpenFiles": [
-    "+/-/phonology.md",
     "x/books/Academic Curriculum.pdf",
+    "+/-/word formation process.md",
+    "+/-/phonology.md",
     "+/stress.md",
     "+/phonotactics.md",
     "+/syllable.md",
@@ -221,7 +236,6 @@
     "+/phoneme.md",
     "+/speech sound.md",
     "+/intonation.md",
-    "+/-/word formation process.md",
     "+/initialism.md",
     "+/acronym.md",
     "+/hypocorism.md",
